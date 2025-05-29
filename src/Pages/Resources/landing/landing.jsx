@@ -28,7 +28,6 @@ const Landing = () => {
 
           </div>
         </div>
-        <hr />
       </div>
     </>
   )
