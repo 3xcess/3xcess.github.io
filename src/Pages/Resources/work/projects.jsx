@@ -1,5 +1,3 @@
-import './projects.css'
-
 const Project = () => {
   return (
     <>

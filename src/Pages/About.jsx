@@ -1,11 +1,13 @@
 import Footer from "../Commons/Footer"
 import Header from "../Commons/Header"
-import Landing from "./Resources/landing/landing"
+import Info from "./Resources/info/Info"
+import Edu from "./Resources/info/Edu"
 
 const About = () => {
   return (<>
             <Header />
-            <Landing />
+            <Info />
+            <Edu />
             <Footer />
           </>
   )
