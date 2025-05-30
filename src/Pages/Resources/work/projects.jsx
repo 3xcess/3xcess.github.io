@@ -59,7 +59,7 @@ const Project = () => {
                     <p className="card-text" style={{ color: "#48483A" }}>
                         A self made, lightweight custom Operating System built on the Linux Kernel. Further iterations refined to have a GUI and networking capability.<br></br>Designed to be lightweight and customizable.
                     </p>
-                    <a href="#" className="btn btn-sm" style={{ backgroundColor: "#64403E", color: "#fff" }}>Not Public</a>
+                    <a href="#" className="btn btn-sm" style={{ backgroundColor: "#B8C1AE", color: "#fff" }}>Not Public</a>
                     </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@ const Project = () => {
                     <p className="card-text" style={{ color: "#48483A" }}>
                         A steganographic cipher system built for embedding and extracting data using images optimized for minimising the size inflation post encryption.<br></br>Written in Python. 
                     </p>
-                    <a href="#" className="btn btn-sm" style={{ backgroundColor: "#64403E", color: "#fff" }}>Not Public</a>
+                    <a href="#" className="btn btn-sm" style={{ backgroundColor: "#B8C1AE", color: "#fff" }}>Not Public</a>
                     </div>
                 </div>
             </div>
