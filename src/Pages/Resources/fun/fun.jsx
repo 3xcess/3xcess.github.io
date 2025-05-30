@@ -22,7 +22,7 @@ const Fun = () => {
 
       <div className="container">
         <div className="row justify-content-center">
-            <h5>More Info Here</h5>
+            <h5>Coming Soon...</h5>
         </div>
       </div>
 
