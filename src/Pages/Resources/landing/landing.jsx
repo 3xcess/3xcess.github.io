@@ -21,7 +21,14 @@ const Landing = () => {
               <a className='px-2 text-right' href="mailto:sujots92@gmail.com"><img width="20" height="20" src={gmail} className="logo" alt="mail" style={{verticalAlign: 'middle', marginTop: "5px"}}/></a>
               <a className='px-2 text-right' href="https://www.linkedin.com/in/sujot/"><img width="20" height="20" src={linkedin} className="logo" alt="linkedin" /></a>
               <a className='px-2 text-right' href="https://github.com/3xcess"><img width="20" height="20" src={github} className="logo" alt="github" /></a>
-              <a className='px-2 text-right' href="https://github.com/3xcess/3xcess.github.io/blob/main/src/assets/CV_PDF.pdf"><img width="20" height="20" src={cv} className="logo" alt="github" /></a>
+              <a
+                className="px-2 text-right"
+                href="/CV_PDF.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                >
+                <img width="20" height="20" src={cv} className="logo" alt="Resume" />
+              </a>
           </div>
           
         </div>
@@ -44,7 +51,13 @@ const Landing = () => {
                This website is also one of my ongoing personal projects, my personal foray into web development and learning React!
             </p>
             <p><b>Resources:</b><br></br>
-               <a href="https://github.com/3xcess/3xcess.github.io/blob/main/src/assets/CV_PDF.pdf" style={{color:"#557E25"}}>Curriculum Vitae</a><br></br>
+               <a
+                    
+                    href="/CV_PDF.pdf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{color:"#557E25"}}
+                    >Curriculum Vitae</a><br></br>
                <a href="https://github.com/3xcess" style={{color:"#557E25"}}>Github</a><br></br>
             </p>
 
