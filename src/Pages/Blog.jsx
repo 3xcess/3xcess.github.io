@@ -1,12 +1,12 @@
 import Footer from "../Commons/Footer"
 import Header from "../Commons/Header"
-import Landing from "./Resources/landing/landing"
+import Fun from "./Resources/fun/fun"
 
 const Blog = () => {
   return (
     <>
         <Header />
-        <Landing />
+        <Fun />
         <Footer />
     </>
   )
