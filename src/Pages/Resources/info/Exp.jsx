@@ -3,6 +3,7 @@ const Exp = () => {
     <>
     <div className="container py-4">
         <h4 style={{color:"#64403E"}}><b>Professional Experience</b></h4>
+        <hr></hr>
 
         <div className="border-start border-2 border-dark shadow-sm ps-4">
             <div className="mb-4 position-relative">
