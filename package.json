@@ -1,9 +1,8 @@
 {
-  "name": "react",
-  "private": true,
+  "name": "3xcess.github.io",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://3xcess.github.io",
+  "homepage": "https://3xcess.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
