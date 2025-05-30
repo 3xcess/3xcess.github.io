@@ -51,7 +51,7 @@ const Landing = () => {
             <div className="card my-2" style={{ backgroundColor: "#F2F3E2", border: 'none' }}>
               <div className="card-body text-center">
                 <img 
-                  src="https://ghchart.rshah.org/3xcess" 
+                  src={`https://ghchart.rshah.org/3xcess?${new Date().getTime()}`} 
                   alt="GitHub chart of Sujot" 
                   className="img-fluid" 
                   style={{ maxWidth: '100%', height: 'auto' }} 
