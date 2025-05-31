@@ -8,7 +8,7 @@ const Header = () => {
     <>
       <Navbar expand="lg" className="navbar-dark fixed-top px-4" style={{ backgroundColor: '#48483A' }}>
         <Container>
-          <Navbar.Brand href="home" style={{color: "#F2F3E2"}}>Sujot Singh</Navbar.Brand>
+          <Navbar.Brand href="/" style={{color: "#F2F3E2"}}>Sujot Singh</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">

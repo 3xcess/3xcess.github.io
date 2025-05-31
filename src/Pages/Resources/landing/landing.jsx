@@ -1,5 +1,5 @@
 import './landing.css'
-import Sujot from '../../../assets/Images/Sujot.JPG'
+import Sujot from '../../../assets/Images/Sujot.jpg'
 import github from "../../../assets/Github.svg"
 import linkedin from "../../../assets/Linkedin.svg"
 import gmail from "../../../assets/Gmail.svg"
