@@ -29,11 +29,21 @@ const Info = () => {
 
       <div className="container">
         <div className="row justify-content-center">
-            <h5>More Info Here</h5>
+            <h5 style={{color:"#64403E", marginLeft:"5px"}}><b>Spoken Languages</b></h5>
+            <hr style={{width:"96%"}}></hr>
+            <p>Traveling and exploring new cultures is food for my soul. 
+               Naturally, I tend to immerse myself deeper into foriegn cultures and challenge myself to learn new languages wherever possible.
+               So far, I have managed to learn 4 major languages and a couple of dialects. Spanish, German and Japanese are on my list next!
+            </p>
+            <ul style={{width:"96%"}}>
+              <li>English (C1)</li>
+              <li>Hindi (Native Fluency)</li>
+              <li>Punjabi (Native)</li>
+              <li>Urdu (Spoken Fluency)</li>
+            </ul>
         </div>
       </div>
-
-
+      
     </>
   )
 }

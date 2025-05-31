@@ -1,7 +1,7 @@
 const Exp = () => {
   return (
     <>
-    <div className="container py-4">
+    <div className="container py-2">
         <h4 style={{color:"#64403E"}}><b>Professional Experience</b></h4>
         <hr></hr>
 

@@ -3,6 +3,7 @@ import Header from "../Commons/Header"
 import Info from "./Resources/info/Info"
 import Edu from "./Resources/info/Edu"
 import Exp from "./Resources/info/Exp"
+import TechEx from "./Resources/info/PastTechExp"
 
 const About = () => {
   return (<>
