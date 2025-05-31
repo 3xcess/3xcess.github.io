@@ -67,7 +67,7 @@ Please change the parent <Route path="${E}"> to <Route path="${E==="/"?"*":`${E}
  * LICENSE.md file in the root directory of this source tree.
  *
  * @license MIT
- */function RouterProvider2(t){return reactExports.createElement(RouterProvider,{flushSync:reactDomExports.flushSync,...t})}const Footer=()=>jsxRuntimeExports.jsx(jsxRuntimeExports.Fragment,{children:jsxRuntimeExports.jsxs("footer",{className:"container text-center",children:[jsxRuntimeExports.jsx("hr",{}),jsxRuntimeExports.jsx("p",{style:{margin:"1px"},children:"Made with ❤️ by Sujot Singh"}),jsxRuntimeExports.jsx("a",{href:"https://github.com/3xcess/3xcess.github.io",style:{margin:"-2px",textDecoration:"underline",color:"#000000"},children:"Feel Free to make it your own 😁"})]})});var classnames={exports:{}};/*!
+ */function RouterProvider2(t){return reactExports.createElement(RouterProvider,{flushSync:reactDomExports.flushSync,...t})}const Footer=()=>jsxRuntimeExports.jsx(jsxRuntimeExports.Fragment,{children:jsxRuntimeExports.jsxs("footer",{className:"container text-center",children:[jsxRuntimeExports.jsx("hr",{}),jsxRuntimeExports.jsx("p",{style:{margin:"1px"},children:"Made with 💚 by Sujot Singh"}),jsxRuntimeExports.jsx("a",{href:"https://github.com/3xcess/3xcess.github.io",style:{margin:"-2px",textDecoration:"underline",color:"#000000"},children:"Feel Free to make it your own :)"})]})});var classnames={exports:{}};/*!
 	Copyright (c) 2018 Jed Watson.
 	Licensed under the MIT License (MIT), see
 	http://jedwatson.github.io/classnames
