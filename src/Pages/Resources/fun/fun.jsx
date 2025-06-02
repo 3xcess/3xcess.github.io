@@ -28,8 +28,16 @@ const Fun = () => {
       </div>
 
       <div className="container">
-        <div className="row justify-content-center">
-            <h5>Coming Soon...</h5>
+        <div className="container py-4">
+          <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            <div className="col">
+              <div className="p-3 h-100 border rounded shadow-sm" style={{ backgroundColor: "#F7F7F2" }}>
+                <h5 style={{ color: "#000000" }}>Transleight-of-Hand</h5>
+                <p style={{ color: "#48483A" }}>WebAssembly, Null Pointers, and Other Fun Ways to Break the Internet.</p>
+                <a href="https://3xcess.hashnode.dev/transleight-of-hand-webassembly-null-pointers-and-other-fun-ways-to-break-the-internet" className="btn btn-sm" style={{ backgroundColor: "#899878", color: "#fff" }}>Read</a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
