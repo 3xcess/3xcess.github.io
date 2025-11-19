@@ -34,11 +34,24 @@ const Project = () => {
             <div className="col-md-4 mb-4">
                 <div className="card border-0 shadow" style={{ backgroundColor: "#F2F3E2" }}>
                     <div className="card-body">
-                    <h5 className="card-title" style={{ color: "#48483A" }}>SCX/Ba-Bawm</h5>
+                    <h5 className="card-title" style={{ color: "#48483A" }}>OAuth 2.0 Authorization Server</h5>
+                    <p className="card-text" style={{ color: "#48483A" }}>
+                        Fully RFC-compliant, with custom RFC implementations built in Python using FastAPI.<br></br>Supports Authorization + PKCE flow, JWT access tokens, Introspection, Revocation, & JWKS public key discovery.
+                    </p>
+                    <a href="https://github.com/3xcess/OAuth2-server/tree/main" className="btn btn-sm" style={{ backgroundColor: "#899878", color: "#fff" }}>View</a>
+                    </div>
+                </div>
+            </div>
+
+
+            <div className="col-md-4 mb-4">
+                <div className="card border-0 shadow" style={{ backgroundColor: "#F2F3E2" }}>
+                    <div className="card-body">
+                    <h5 className="card-title" style={{ color: "#48483A" }}>Auto-ext</h5>
                     <p className="card-text" style={{ color: "#48483A", textAlign:"left" }}>
                         A system for automated workload profiling and scheduler switching to optimize the Linux Kernel performance. <br></br>Built using SCX, Sched-Ext, and eBPF.
                     </p>
-                    <a href="https://github.com/EddieFed/scx-ba-bawm" className="btn btn-sm" style={{ backgroundColor: "#899878", color: "#fff" }}>View</a>
+                    <a href="https://github.com/3xcess/auto_ext" className="btn btn-sm" style={{ backgroundColor: "#899878", color: "#fff" }}>View</a>
                     </div>
                 </div>
             </div>
